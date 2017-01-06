@@ -44,6 +44,6 @@ your working, and deliver the complete repo at the end.
 
 endpoints could look like, including example requests and responses.
 
-https://.api.our-domain.com/wrapper
+ https://.api.our-domain.com/wrapper
 
-curl -X POST -d "string=value1&length=value2" https://.api.our-domain.com/wrapper
+ curl -X POST -d "string=value1&length=value2" https://.api.our-domain.com/wrapper
