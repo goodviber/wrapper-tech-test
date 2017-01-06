@@ -1,6 +1,6 @@
 require 'spec_helper'
 require_relative '../wrapper'
-
+#just some text here
 describe Wrapper do
   it 'works with spaces' do
     word_wrap = Wrapper.new
